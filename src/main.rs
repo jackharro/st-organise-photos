@@ -1,3 +1,5 @@
+use user_interface;
+
 fn main() {
-    println!("Hello, world!");
+    user_interface::main();
 }

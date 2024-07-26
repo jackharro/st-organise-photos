@@ -1,0 +1,8 @@
+[package]
+name = "user-interface"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.27.0"
+ratatui-image = "1.0.5"

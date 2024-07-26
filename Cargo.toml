@@ -3,4 +3,5 @@ name = "st-organise-photos"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
+[dependencies.user-interface]
+path="./src/ui"
